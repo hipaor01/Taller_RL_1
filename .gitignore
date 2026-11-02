@@ -41,3 +41,11 @@ dist/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+
+generar_preguntas_defensa.py
+
+artifacts/
+
+output/
+
+tmp/
